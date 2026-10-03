@@ -1,12 +1,12 @@
 [
-  {"repo":"GeeLo","category":"gee-tool","status":"stable"},
-  {"repo":"GeeFast","category":"gee-tool","status":"stable"},
-  {"repo":"GeePick","category":"gee-tool","status":"stable"},
-  {"repo":"GeeZip","category":"gee-tool","status":"experimental"},
-  {"repo":"LitBridge","category":"daily-tool","status":"stable"},
-  {"repo":"ZotLink","category":"daily-tool","status":"stable"},
-  {"repo":"WeChatPub","category":"daily-tool","status":"stable"},
-  {"repo":"MindFly","category":"daily-tool","status":"stable"},
-  {"repo":"classroom-quiz","category":"daily-tool","status":"stable"},
+  {"repo":"GeeLo","category":"gee-tools","status":"stable"},
+  {"repo":"GeeFast","category":"gee-tools","status":"stable"},
+  {"repo":"GeePick","category":"gee-tools","status":"stable"},
+  {"repo":"GeeZip","category":"gee-tools","status":"experimental"},
+  {"repo":"LitBridge","category":"daily-tools","status":"stable"},
+  {"repo":"ZotLink","category":"daily-tools","status":"stable"},
+  {"repo":"WeChatPub","category":"daily-tools","status":"stable"},
+  {"repo":"MindFly","category":"daily-tools","status":"stable"},
+  {"repo":"classroom-quiz","category":"daily-tools","status":"stable"},
   {"repo":"GeeDL","category":"research-wip","status":"wip"}
 ]
