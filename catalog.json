@@ -10,6 +10,11 @@
         "status":  "experimental"
     },
     {
+        "repo":  "PaperDocx",
+        "category":  "daily-tools",
+        "status":  "wip"
+    },
+    {
         "repo":  "Windows-MCP",
         "category":  "daily-tools",
         "status":  "experimental"
