@@ -21,13 +21,20 @@
 | 项目 | 一句话用途 | 状态 |
 |---|---|---|
 | [classroom-quiz](https://github.com/xulogin/classroom-quiz) | 局域网扫码随堂答题、实时统计和成绩汇总。 | 稳定可用 |
-| [neural-creator-dashboard](https://github.com/xulogin/neural-creator-dashboard) | 创作内容与笔记的神经网络可视化看板，支持作品、选题、草稿及双向链接，附 Agent Skill；本仓库为 luoluo-121/neural-creator-dashboard 的 Fork。 | 实验可用 |
-| [Windows-MCP](https://github.com/xulogin/Windows-MCP) | Windows 桌面操作 MCP 服务：截图、界面识别、鼠标键盘及文件操作；本仓库为 CursorTouch/Windows-MCP 的 Fork。 | 实验可用 |
 
 ## 🧪 在研 / 探索
 
 | 项目 | 一句话用途 | 状态 |
 |---|---|---|
 | [GeeDL](https://github.com/xulogin/GeeDL) | 连接 GEE 与 Python 神经网络推理，探索逐像元不确定性估计。 | 在研 |
+
+## Fork 项目
+
+以下项目源自其他作者；本账号的 Fork 用于使用、试验或维护，不代表原创。
+
+| 项目 | 一句话用途 | 上游 |
+|---|---|---|
+| [neural-creator-dashboard](https://github.com/xulogin/neural-creator-dashboard) | 创作内容与笔记的神经网络可视化看板，支持作品、选题、草稿及双向链接，附 Agent Skill；本仓库为 luoluo-121/neural-creator-dashboard 的 Fork。 | [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) |
+| [Windows-MCP](https://github.com/xulogin/Windows-MCP) | Windows 桌面操作 MCP 服务：截图、界面识别、鼠标键盘及文件操作；本仓库为 CursorTouch/Windows-MCP 的 Fork。 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) |
 
 GitHub Topics: `gee-tools`、`daily-tools`、`research-wip`。
