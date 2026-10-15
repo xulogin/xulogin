@@ -5,6 +5,7 @@
   {"repo":"GeeZip","category":"gee-tools","status":"experimental"},
   {"repo":"LitBridge","category":"daily-tools","status":"stable"},
   {"repo":"ZotLink","category":"daily-tools","status":"stable"},
+  {"repo":"WriteKit","category":"daily-tools","status":"stable"},
   {"repo":"WeChatPub","category":"daily-tools","status":"stable"},
   {"repo":"MindFly","category":"daily-tools","status":"stable"},
   {"repo":"classroom-quiz","category":"daily-tools","status":"stable"},
