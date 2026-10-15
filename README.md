@@ -15,7 +15,6 @@
 | 项目 | 用途 | 状态 |
 |---|---|---|
 | [classroom-quiz](https://github.com/xulogin/classroom-quiz) | 局域网扫码随堂答题、实时统计和成绩汇总。 | 稳定可用 |
-| [xulogin](https://github.com/xulogin/xulogin) | GitHub 个人主页，仅展示公开项目及其用途。 | 稳定可用 |
 
 ## 在研与探索
 

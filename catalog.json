@@ -15,11 +15,6 @@
         "status":  "experimental"
     },
     {
-        "repo":  "xulogin",
-        "category":  "daily-tools",
-        "status":  "stable"
-    },
-    {
         "repo":  "GeeFast",
         "category":  "gee-tools",
         "status":  "stable"
