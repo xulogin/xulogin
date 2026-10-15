@@ -1,13 +1,42 @@
-[
-  {"repo":"GeeLo","category":"gee-tools","status":"stable"},
-  {"repo":"GeeFast","category":"gee-tools","status":"stable"},
-  {"repo":"GeePick","category":"gee-tools","status":"stable"},
-  {"repo":"GeeZip","category":"gee-tools","status":"experimental"},
-  {"repo":"LitBridge","category":"daily-tools","status":"stable"},
-  {"repo":"ZotLink","category":"daily-tools","status":"stable"},
-  {"repo":"WriteKit","category":"daily-tools","status":"stable"},
-  {"repo":"WeChatPub","category":"daily-tools","status":"stable"},
-  {"repo":"MindFly","category":"daily-tools","status":"stable"},
-  {"repo":"classroom-quiz","category":"daily-tools","status":"stable"},
-  {"repo":"GeeDL","category":"research-wip","status":"wip"}
+﻿[
+    {
+        "repo":  "classroom-quiz",
+        "category":  "daily-tools",
+        "status":  "stable"
+    },
+    {
+        "repo":  "neural-creator-dashboard",
+        "category":  "daily-tools",
+        "status":  "experimental"
+    },
+    {
+        "repo":  "Windows-MCP",
+        "category":  "daily-tools",
+        "status":  "experimental"
+    },
+    {
+        "repo":  "xulogin",
+        "category":  "daily-tools",
+        "status":  "stable"
+    },
+    {
+        "repo":  "GeeFast",
+        "category":  "gee-tools",
+        "status":  "stable"
+    },
+    {
+        "repo":  "GeeLo",
+        "category":  "gee-tools",
+        "status":  "stable"
+    },
+    {
+        "repo":  "GeeZip",
+        "category":  "gee-tools",
+        "status":  "experimental"
+    },
+    {
+        "repo":  "GeeDL",
+        "category":  "research-wip",
+        "status":  "wip"
+    }
 ]
