@@ -1,42 +1,42 @@
-﻿[
-    {
-        "repo":  "classroom-quiz",
-        "category":  "daily-tools",
-        "status":  "stable"
-    },
-    {
-        "repo":  "neural-creator-dashboard",
-        "category":  "daily-tools",
-        "status":  "experimental"
-    },
-    {
-        "repo":  "PaperDocx",
-        "category":  "daily-tools",
-        "status":  "wip"
-    },
-    {
-        "repo":  "Windows-MCP",
-        "category":  "daily-tools",
-        "status":  "experimental"
-    },
-    {
-        "repo":  "GeeFast",
-        "category":  "gee-tools",
-        "status":  "stable"
-    },
-    {
-        "repo":  "GeeLo",
-        "category":  "gee-tools",
-        "status":  "stable"
-    },
-    {
-        "repo":  "GeeZip",
-        "category":  "gee-tools",
-        "status":  "experimental"
-    },
-    {
-        "repo":  "GeeDL",
-        "category":  "research-wip",
-        "status":  "wip"
-    }
+[
+  {
+    "repo": "classroom-quiz",
+    "category": "daily-tools",
+    "status": "stable"
+  },
+  {
+    "repo": "neural-creator-dashboard",
+    "category": "daily-tools",
+    "status": "experimental"
+  },
+  {
+    "repo": "PaperDocx",
+    "category": "daily-tools",
+    "status": "wip"
+  },
+  {
+    "repo": "Windows-MCP",
+    "category": "daily-tools",
+    "status": "experimental"
+  },
+  {
+    "repo": "GeeFast",
+    "category": "gee-tools",
+    "status": "stable"
+  },
+  {
+    "repo": "GeeLo",
+    "category": "gee-tools",
+    "status": "stable"
+  },
+  {
+    "repo": "GeeZip",
+    "category": "gee-tools",
+    "status": "experimental"
+  },
+  {
+    "repo": "GeeDL",
+    "category": "research-wip",
+    "status": "wip"
+  }
 ]
