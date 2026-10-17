@@ -2,41 +2,49 @@
   {
     "repo": "classroom-quiz",
     "category": "daily-tools",
-    "status": "stable"
+    "status": "stable",
+    "section": "teaching"
   },
   {
     "repo": "neural-creator-dashboard",
     "category": "daily-tools",
-    "status": "experimental"
+    "status": "experimental",
+    "section": "content"
   },
   {
     "repo": "PaperDocx",
     "category": "daily-tools",
-    "status": "wip"
+    "status": "wip",
+    "section": "writing"
   },
   {
     "repo": "Windows-MCP",
     "category": "daily-tools",
-    "status": "experimental"
+    "status": "experimental",
+    "section": "desktop"
   },
   {
     "repo": "GeeFast",
     "category": "gee-tools",
-    "status": "stable"
+    "status": "stable",
+    "section": "gee-tools"
   },
   {
     "repo": "GeeLo",
     "category": "gee-tools",
-    "status": "stable"
+    "status": "stable",
+    "section": "gee-tools"
   },
   {
     "repo": "GeeZip",
     "category": "gee-tools",
-    "status": "experimental"
+    "status": "experimental",
+    "section": "gee-tools"
   },
   {
     "repo": "GeeDL",
     "category": "research-wip",
-    "status": "wip"
+    "status": "wip",
+    "section": "gee-tools"
   }
 ]
