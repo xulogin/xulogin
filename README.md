@@ -2,6 +2,8 @@
 
 公开项目按用途归类：遥感处理、论文写作、课堂教学与研究探索。
 
+🔒 **[进入私人项目导航](https://github.com/xulogin/project-registry)** · 登录有权限的 GitHub 账号后查看完整分类目录。
+
 [🛰️ GEE / 遥感项目](#gee-tools) · [📝 文献检索 / 论文写作](#writing) · [🎓 课堂教学 / 答题统计](#teaching) · [🔀 Fork 项目](#forks)
 
 ---
