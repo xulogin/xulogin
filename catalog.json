@@ -46,5 +46,41 @@
     "category": "research-wip",
     "status": "wip",
     "section": "gee-tools"
+  },
+  {
+    "repo": "genoffice",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "ego-lite",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "rea",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "scientific-agent-skills",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
+  },
+  {
+    "repo": "libretv",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
+  },
+  {
+    "repo": "ziwei-doushu",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
   }
 ]

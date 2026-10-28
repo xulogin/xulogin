@@ -53,7 +53,18 @@
 
 | 项目 | 一句话用途 | 状态 | 上游 |
 |---|---|---|---|
+| [ego-lite](https://github.com/xulogin/ego-lite) | 给 AI Agent 用的浏览器，共享已登录的浏览器状态做自动化；本仓库为 citrolabs/ego-lite 的 Fork。 | 实验 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
+| [genoffice](https://github.com/xulogin/genoffice) | 开源 AI 办公套件（文档、表格、演示、PDF、Markdown）与 genoffice 命令行；本仓库为 genspark-ai/genoffice 的 Fork。 | 实验 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) |
+| [rea](https://github.com/xulogin/rea) | 用 Agent 做逆向分析，从应用行为到原生二进制；本仓库为 morluto/rea 的 Fork。 | 实验 | [morluto/rea](https://github.com/morluto/rea) |
 | [Windows-MCP](https://github.com/xulogin/Windows-MCP) | Windows 桌面操作 MCP 服务：截图、界面识别、鼠标键盘及文件操作；本仓库为 CursorTouch/Windows-MCP 的 Fork。 | 实验 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) |
+
+#### 🧰 综合工具 / AI Skills
+
+| 项目 | 一句话用途 | 状态 | 上游 |
+|---|---|---|---|
+| [libretv](https://github.com/xulogin/libretv) | 一分钟搭建影视站，支持 Docker 等部署方式；本仓库为 LibreSpark/LibreTV 的 Fork。 | 实验 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) |
+| [scientific-agent-skills](https://github.com/xulogin/scientific-agent-skills) | 面向科研的 Agent Skills 合集（177 个 skill、100+ 科学数据库）；本仓库为 K-Dense-AI/scientific-agent-skills 的 Fork。 | 实验 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
+| [ziwei-doushu](https://github.com/xulogin/ziwei-doushu) | 紫微斗数开源排盘引擎，含排盘算法、四化、格局知识库与古籍数据；本仓库为 Renhuai123/ziwei-doushu 的 Fork。 | 实验 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) |
 
 ---
 
