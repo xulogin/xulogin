@@ -82,5 +82,23 @@
     "category": "daily-tools",
     "status": "experimental",
     "section": "daily-tools"
+  },
+  {
+    "repo": "anti-defensive-writing",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "writing"
+  },
+  {
+    "repo": "deskbox",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "puppeteer",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
   }
 ]

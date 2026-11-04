@@ -43,6 +43,12 @@
 
 ### 日常工具 / AI Skills
 
+#### 📝 文献检索 / 论文写作
+
+| 项目 | 一句话用途 | 状态 | 上游 |
+|---|---|---|---|
+| [anti-defensive-writing](https://github.com/xulogin/anti-defensive-writing) | 删掉防御性写法、让文字更直接的写作 skill；本仓库为 Kiterlin/anti-defensive-writing 的 Fork。 | 实验 | [Kiterlin/anti-defensive-writing](https://github.com/Kiterlin/anti-defensive-writing) |
+
 #### 🎨 内容创作 / 知识整理
 
 | 项目 | 一句话用途 | 状态 | 上游 |
@@ -53,8 +59,10 @@
 
 | 项目 | 一句话用途 | 状态 | 上游 |
 |---|---|---|---|
+| [deskbox](https://github.com/xulogin/deskbox) | 免费开源的 Windows 桌面整理工具，WinUI 3 小组件；本仓库为 Tianyu199509/DeskBox 的 Fork。 | 实验 | [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) |
 | [ego-lite](https://github.com/xulogin/ego-lite) | 给 AI Agent 用的浏览器，共享已登录的浏览器状态做自动化；本仓库为 citrolabs/ego-lite 的 Fork。 | 实验 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
 | [genoffice](https://github.com/xulogin/genoffice) | 开源 AI 办公套件（文档、表格、演示、PDF、Markdown）与 genoffice 命令行；本仓库为 genspark-ai/genoffice 的 Fork。 | 实验 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) |
+| [puppeteer](https://github.com/xulogin/puppeteer) | Chrome / Firefox 自动化的 JavaScript 库，本机 CDP 操作已登录浏览器靠它；本仓库为 puppeteer/puppeteer 的 Fork。 | 实验 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) |
 | [rea](https://github.com/xulogin/rea) | 用 Agent 做逆向分析，从应用行为到原生二进制；本仓库为 morluto/rea 的 Fork。 | 实验 | [morluto/rea](https://github.com/morluto/rea) |
 | [Windows-MCP](https://github.com/xulogin/Windows-MCP) | Windows 桌面操作 MCP 服务：截图、界面识别、鼠标键盘及文件操作；本仓库为 CursorTouch/Windows-MCP 的 Fork。 | 实验 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) |
 
