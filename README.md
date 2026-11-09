@@ -53,15 +53,20 @@
 
 | 项目 | 一句话用途 | 状态 | 上游 |
 |---|---|---|---|
+| [AI_Animation](https://github.com/xulogin/AI_Animation) | 生成炫酷 HTML 动画网页的提示词合集：动画效果、3D 可视化、PPT 风格演示、UI 美化（第 5 讲流程图流光、3D 轮播的参考）；本仓库为 Unclecheng-li/AI_Animation 的 Fork。 | 实验 | [Unclecheng-li/AI_Animation](https://github.com/Unclecheng-li/AI_Animation) |
 | [neural-creator-dashboard](https://github.com/xulogin/neural-creator-dashboard) | 创作内容与笔记的神经网络可视化看板，支持作品、选题、草稿及双向链接，附 Agent Skill；本仓库为 luoluo-121/neural-creator-dashboard 的 Fork。 | 实验 | [luoluo-121/neural-creator-dashboard](https://github.com/luoluo-121/neural-creator-dashboard) |
+| [swarm-cursors](https://github.com/xulogin/swarm-cursors) | 一群多人协作式光标把网页重新「画」一遍的动画（第 5 讲「当场生成」开场用过）；本仓库为 DhvanilPatel/swarm-cursors 的 Fork。 | 实验 | [DhvanilPatel/swarm-cursors](https://github.com/DhvanilPatel/swarm-cursors) |
+| [Toonflow-app](https://github.com/xulogin/Toonflow-app) | 开源 AI 短剧、漫剧制作平台：剧本、分镜、角色场景资产、图像与视频生成；本仓库为 HBAI-Ltd/Toonflow-app 的 Fork。 | 实验 | [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) |
 
 #### 🧰 桌面自动化 / AI 工具
 
 | 项目 | 一句话用途 | 状态 | 上游 |
 |---|---|---|---|
+| [agent-desktop](https://github.com/xulogin/agent-desktop) | 给 AI Agent 用的桌面操作命令行（computer use）；本仓库为 vercel-labs/agent-desktop 的 Fork。 | 实验 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) |
 | [deskbox](https://github.com/xulogin/deskbox) | 免费开源的 Windows 桌面整理工具，WinUI 3 小组件；本仓库为 Tianyu199509/DeskBox 的 Fork。 | 实验 | [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) |
 | [ego-lite](https://github.com/xulogin/ego-lite) | 给 AI Agent 用的浏览器，共享已登录的浏览器状态做自动化；本仓库为 citrolabs/ego-lite 的 Fork。 | 实验 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
 | [genoffice](https://github.com/xulogin/genoffice) | 开源 AI 办公套件（文档、表格、演示、PDF、Markdown）与 genoffice 命令行；本仓库为 genspark-ai/genoffice 的 Fork。 | 实验 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) |
+| [prompt-spider-ui](https://github.com/xulogin/prompt-spider-ui) | Canvas 2D 机械蜘蛛可视化界面，可经 MCP 实时展示 Agent 的任务；本仓库为 Kirito14IT/prompt-spider-ui 的 Fork。 | 实验 | [Kirito14IT/prompt-spider-ui](https://github.com/Kirito14IT/prompt-spider-ui) |
 | [puppeteer](https://github.com/xulogin/puppeteer) | Chrome / Firefox 自动化的 JavaScript 库，本机 CDP 操作已登录浏览器靠它；本仓库为 puppeteer/puppeteer 的 Fork。 | 实验 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) |
 | [rea](https://github.com/xulogin/rea) | 用 Agent 做逆向分析，从应用行为到原生二进制；本仓库为 morluto/rea 的 Fork。 | 实验 | [morluto/rea](https://github.com/morluto/rea) |
 | [Windows-MCP](https://github.com/xulogin/Windows-MCP) | Windows 桌面操作 MCP 服务：截图、界面识别、鼠标键盘及文件操作；本仓库为 CursorTouch/Windows-MCP 的 Fork。 | 实验 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) |

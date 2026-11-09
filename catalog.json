@@ -100,5 +100,35 @@
     "category": "research-wip",
     "status": "wip",
     "section": "gee-tools"
+  },
+  {
+    "repo": "agent-desktop",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "swarm-cursors",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
+  },
+  {
+    "repo": "Toonflow-app",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
+  },
+  {
+    "repo": "prompt-spider-ui",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "AI_Animation",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
   }
 ]
