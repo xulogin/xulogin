@@ -1,9 +1,39 @@
 [
   {
+    "repo": "anti-defensive-writing",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "writing"
+  },
+  {
     "repo": "classroom-quiz",
     "category": "daily-tools",
     "status": "stable",
     "section": "teaching"
+  },
+  {
+    "repo": "deskbox",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "ego-lite",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "genoffice",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "libretv",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
   },
   {
     "repo": "neural-creator-dashboard",
@@ -18,10 +48,34 @@
     "section": "writing"
   },
   {
+    "repo": "puppeteer",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "rea",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "scientific-agent-skills",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
+  },
+  {
     "repo": "Windows-MCP",
     "category": "daily-tools",
     "status": "experimental",
     "section": "desktop"
+  },
+  {
+    "repo": "ziwei-doushu",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
   },
   {
     "repo": "GeeFast",
@@ -46,59 +100,5 @@
     "category": "research-wip",
     "status": "wip",
     "section": "gee-tools"
-  },
-  {
-    "repo": "genoffice",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "ego-lite",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "rea",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "scientific-agent-skills",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "daily-tools"
-  },
-  {
-    "repo": "libretv",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "daily-tools"
-  },
-  {
-    "repo": "ziwei-doushu",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "daily-tools"
-  },
-  {
-    "repo": "anti-defensive-writing",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "writing"
-  },
-  {
-    "repo": "deskbox",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "puppeteer",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
   }
 ]
