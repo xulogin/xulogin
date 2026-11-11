@@ -1,5 +1,17 @@
 [
   {
+    "repo": "agent-desktop",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
+    "repo": "AI_Animation",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
+  },
+  {
     "repo": "anti-defensive-writing",
     "category": "daily-tools",
     "status": "experimental",
@@ -48,6 +60,12 @@
     "section": "writing"
   },
   {
+    "repo": "prompt-spider-ui",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "desktop"
+  },
+  {
     "repo": "puppeteer",
     "category": "daily-tools",
     "status": "experimental",
@@ -64,6 +82,18 @@
     "category": "daily-tools",
     "status": "experimental",
     "section": "daily-tools"
+  },
+  {
+    "repo": "swarm-cursors",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
+  },
+  {
+    "repo": "Toonflow-app",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "content"
   },
   {
     "repo": "Windows-MCP",
@@ -100,35 +130,5 @@
     "category": "research-wip",
     "status": "wip",
     "section": "gee-tools"
-  },
-  {
-    "repo": "agent-desktop",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "swarm-cursors",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "content"
-  },
-  {
-    "repo": "Toonflow-app",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "content"
-  },
-  {
-    "repo": "prompt-spider-ui",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "desktop"
-  },
-  {
-    "repo": "AI_Animation",
-    "category": "daily-tools",
-    "status": "experimental",
-    "section": "content"
   }
 ]
