@@ -130,5 +130,17 @@
     "category": "research-wip",
     "status": "wip",
     "section": "gee-tools"
+  },
+  {
+    "repo": "craft-anything",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
+  },
+  {
+    "repo": "sherlock",
+    "category": "daily-tools",
+    "status": "experimental",
+    "section": "daily-tools"
   }
 ]
